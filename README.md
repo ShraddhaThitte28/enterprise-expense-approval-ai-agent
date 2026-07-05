@@ -74,11 +74,11 @@ Employee Name : Shraddha
 
 Department : IT
 
-Expense Type : Hotel
+Expense Type : Taxi
 
-Amount : ₹7000
+Amount : ₹1200
 
-Reason : Office Meeting
+Reason : Office Travel
 
 Output
 
